@@ -1,2 +1,1 @@
-# Bubbles
-Bubbles PyGame source
+# Bubbles_2.0
